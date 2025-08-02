@@ -1,0 +1,1 @@
+Let your TikTok viewers interact with you in your Minecraft Server through donations, this app will use ServerTap to communicate with the PaperMC Minecraft server
