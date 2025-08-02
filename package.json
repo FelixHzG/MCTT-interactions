@@ -1,0 +1,16 @@
+{
+  "name": "mctt-interactions",
+  "version": "1.0.0",
+  "description": "Let your TikTok viewers interact with you in your Minecraft Server through donations, this app will use ServerTap to communicate with the PaperMC Minecraft server",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^37.2.5"
+  }
+}
