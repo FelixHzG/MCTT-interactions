@@ -1,16 +1,22 @@
 # TODO
 
+## Short tasks
+
+- [ ] Grab stream and query gifts
+- [ ] Grab the 12 gifts that have interactions
+- [ ] Implement the interactions
+
 ## Basic functionality
 
 - [ ] Create basic Electron.js app
-- [ ] Connect to TikTok live with Node.js unofficial tiktok live library
+- [X] Connect to TikTok live with Node.js unofficial tiktok live library
 - [ ] Show chat in Electron.js app
-- [ ] Connect to MC Server with ServerTap
-- [ ] Tunnel the TiktTok chat in MC chat
+- [X] Connect to MC Server with ServerTap
+- [X] Tunnel the TiktTok chat in MC chat
 
 ## Functionality
 
-- [ ] Show TikTok donos in MC chat (make sure multiple donos work)
+- [X] Show TikTok donos in MC chat (make sure multiple donos work)
 - [ ] Maybe disable S2E's /title command and implement own
 
 ## Donos
